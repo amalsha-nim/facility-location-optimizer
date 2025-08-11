@@ -1,4 +1,3 @@
-
 # Facility Location Optimizer with K-Means
 
 This project is a desktop application built with Python and Tkinter that uses the K-Means clustering algorithm to find the optimal locations for new facilities (like warehouses or stores) based on existing customer data. The application provides a graphical user interface (GUI) for users to input customer and initial facility locations, run the optimization, and visualize the results.
@@ -22,27 +21,29 @@ Before you begin, ensure you have the following installed:
 
 1. Clone the repository:
    ```bash
-   git clone [https://github.com/amalsha-nim/facility-location-optimizer.git)
+   git clone https://github.com/amalsha-nim/facility-location-optimizer.git
    cd facility-location-optimizer
-````
+   ```
 
-2.  Create a virtual environment (recommended):
-    ```bash
-    python -m venv venv
-    ```
-3.  Activate the virtual environment:
-      - On Windows:
-        ```bash
-        venv\Scripts\activate
-        ```
-      - On macOS and Linux:
-        ```bash
-        source venv/bin/activate
-        ```
-4.  Install the required dependencies:
-    ```bash
-    pip install -r requirements.txt
-    ```
+2. Create a virtual environment (recommended):
+   ```bash
+   python -m venv venv
+   ```
+
+3. Activate the virtual environment:
+   - On Windows:
+     ```bash
+     venv\Scripts\activate
+     ```
+   - On macOS and Linux:
+     ```bash
+     source venv/bin/activate
+     ```
+
+4. Install the required dependencies:
+   ```bash
+   pip install -r requirements.txt
+   ```
 
 ## Usage
 
@@ -54,7 +55,8 @@ python main.py
 
 ### Live Demonstration
 
-\<iframe width="560" height="315" src="https://www.google.com/search?q=https://www.youtube.com/embed/MRjvQDei\_TA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen\>\</iframe\>
+[![Demo Video](https://img.youtube.com/vi/MRjvQDei_TA/0.jpg)](https://www.youtube.com/watch?v=MRjvQDei_TA)
 
-```
-```
+*Click the image above to watch the demonstration video*
+
+Alternatively, you can view the video directly at: https://www.youtube.com/watch?v=MRjvQDei_TA
