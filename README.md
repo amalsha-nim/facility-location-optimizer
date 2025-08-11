@@ -47,3 +47,7 @@ Before you begin, ensure you have the following installed:
 To run the application, make sure your virtual environment is active and then execute the main.py file:
 ```bash
 python main.py
+
+### Live Demonstration
+
+<iframe width="560" height="315" src="https://youtu.be/MRjvQDei_TA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
