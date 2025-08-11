@@ -1,3 +1,4 @@
+
 # Facility Location Optimizer with K-Means
 
 This project is a desktop application built with Python and Tkinter that uses the K-Means clustering algorithm to find the optimal locations for new facilities (like warehouses or stores) based on existing customer data. The application provides a graphical user interface (GUI) for users to input customer and initial facility locations, run the optimization, and visualize the results.
@@ -20,24 +21,25 @@ Before you begin, ensure you have the following installed:
 ## Installation
 
 1. Clone the repository:
-    ```bash
-    git clone https://github.com/your-username/facility-location-optimizer.git
-    cd facility-location-optimizer
-    ```
-2. Create a virtual environment (recommended):
+   ```bash
+   git clone [https://github.com/amalsha-nim/facility-location-optimizer.git)
+   cd facility-location-optimizer
+````
+
+2.  Create a virtual environment (recommended):
     ```bash
     python -m venv venv
     ```
-3. Activate the virtual environment:  
-    - On Windows:
-      ```bash
-      venv\Scripts\activate
-      ```  
-    - On macOS and Linux:
-      ```bash
-      source venv/bin/activate
-      ```
-4. Install the required dependencies:
+3.  Activate the virtual environment:
+      - On Windows:
+        ```bash
+        venv\Scripts\activate
+        ```
+      - On macOS and Linux:
+        ```bash
+        source venv/bin/activate
+        ```
+4.  Install the required dependencies:
     ```bash
     pip install -r requirements.txt
     ```
@@ -45,9 +47,14 @@ Before you begin, ensure you have the following installed:
 ## Usage
 
 To run the application, make sure your virtual environment is active and then execute the main.py file:
+
 ```bash
 python main.py
+```
 
 ### Live Demonstration
 
-<iframe width="560" height="315" src="https://youtu.be/MRjvQDei_TA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+\<iframe width="560" height="315" src="https://www.google.com/search?q=https://www.youtube.com/embed/MRjvQDei\_TA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen\>\</iframe\>
+
+```
+```
